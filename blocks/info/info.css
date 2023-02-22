@@ -1,0 +1,10 @@
+@import './__title/info__title.css';
+.info {
+    overflow:auto;
+    min-height: 300px;
+    background: url('../../images/47177ed1f052c59686765f0cd8295512.jpg') right no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
